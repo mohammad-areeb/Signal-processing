@@ -1,4 +1,4 @@
-#Glucose Data Analysis
+# Glucose Data Analysis
 
 This repository contains code for analyzing glucose data collected on different dates. The code performs various operations, including reading data from a CSV file, applying filters, calculating the frequency spectrum, and identifying peaks in the data. The details of the code and its functionality are explained below.
 
