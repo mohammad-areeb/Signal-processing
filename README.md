@@ -2,15 +2,16 @@
 
 This repository contains code for analyzing glucose data collected on different dates. The code performs various operations, including reading data from a CSV file, applying filters, calculating the frequency spectrum, and identifying peaks in the data. The details of the code and its functionality are explained below.
 
-Prerequisites
+## Prerequisites
 To run this code, you need the following:
 
-MATLAB installed on your local machine.
-The glucose data file named "glucose-data.csv" should be present in the same directory as the code file.
-Code Explanation
+* MATLAB installed on your local machine. *
+2. The glucose data file named "glucose-data.csv" should be present in the same directory as the code file.
+
+## Code Explanation
 The code is divided into sections, each corresponding to a specific date's glucose data analysis. Here's a breakdown of each section:
 
-Data Analysis for 23rd February 2021
+### Data Analysis for 23rd February 2021
 The code reads the glucose data for 23rd February 2021 from the CSV file using the csvread function.
 The frequency spectrum of the blood sugar data is calculated using the Fast Fourier Transform (FFT).
 A low-pass filter is designed using the Butterworth filter design method.
