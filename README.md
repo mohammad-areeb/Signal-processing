@@ -38,6 +38,3 @@ To use this code, follow these steps:
 5. The code will generate plots for each dataset, showing the frequency spectrum, original data, filtered data, and identified peaks.
 
 Feel free to modify the code according to your requirements and experiment with different parameters and data.
-
-## License
-This code is released under the MIT License.
